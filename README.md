@@ -116,10 +116,10 @@ Execute the program
 
 
 # OUPUT
-![OUTPUT](http://dineshkumaraa.student.saveetha.in:8000/static/images/out2.png?raw=true)
+![OUTPUT](./out2.png)
 
 # HTML VALIDATOR
-![HTML VALIDATOR](http://dineshkumaraa.student.saveetha.in:8000/static/valid.png?raw=true)
+![HTML VALIDATOR](./valid.png)
 
 # RESULT
 
